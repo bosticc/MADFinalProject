@@ -41,6 +41,7 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 - [x] **Show user number of all completed tasks**
 - [x] **User login feature**
 - [ ] **Allow user to add a picture in task description**
+- [ ] **Clean up/Enhance User Interface**
 
 ### 2. Screen Archetypes
 
