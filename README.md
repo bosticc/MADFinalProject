@@ -47,11 +47,18 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 
 - Home Page
   - <img src='https://i.imgur.com/MzRokK0.png' title='Home Screen' width='' alt='Home Screen' height = '250' width='230'/>
-  - ...
+ 
 - Add a Task
   - <img src='https://i.imgur.com/TBqLSr1.png' title='Add a Task Screen' width='' alt='Home Screen' height = '250' width='230'/>
+  
 - Task on Screen
-  - <img src='https://i.imgur.com/vYfnGKd.png' title='Add a Task Screen' width='' alt='Home Screen' height = '250' width='230'/>
+  - <img src='https://i.imgur.com/vYfnGKd.png' title='Tasks on Screen' width='' alt='Home Screen' height = '250' width='230'/>
+  
+- Completed Task
+  - <img src='https://i.imgur.com/fWWQkR1.png' title='Completed Tasks' width='' alt='Home Screen' height = '250' width='230'/>
+
+- Delete Tasks
+  - <img src='https://i.imgur.com/8rFJLG0.png' title='Delete Tasks' width='' alt='Home Screen' height = '250' width='230'/>
 
 ### 3. Navigation
 
