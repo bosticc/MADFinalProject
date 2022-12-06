@@ -10,7 +10,7 @@
 
 ### Description
 
-[Description of your app]
+Our app, Good Habits, is a to do list that helps keep everyday people organized. From the smallest tasks to the largest, never forget a task again with Good Habits.
 
 ### App Evaluation
 
