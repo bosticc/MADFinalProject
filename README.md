@@ -55,6 +55,7 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 
 **Flow Navigation** (Screen to Screen)
 
+<img src='https://i.imgur.com/WaCn7M3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 - [list first screen here]
   - [list screen navigation here]
   - ...
