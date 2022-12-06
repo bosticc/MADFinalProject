@@ -1,4 +1,4 @@
-# Milestone 1 - ANM
+# Good Habits App - ANM
 
 ## Table of Contents
 
