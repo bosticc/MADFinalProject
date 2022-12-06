@@ -64,9 +64,11 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home
+* Add Tasks
+* Complete Tasks
+* Delete Selected Tasks
+* Delete All Tasks
 
 **Flow Navigation** (Screen to Screen)
 
