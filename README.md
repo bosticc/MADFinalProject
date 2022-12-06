@@ -46,7 +46,7 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 ### 2. Screen Archetypes
 
 - Home Page
-  - <img src='https://i.imgur.com/C6Hdabq.jpeg' title='Home Screen' width='' alt='Home Screen' height = '50' width='70'/>
+  - <img src='https://i.imgur.com/MzRokK0.png' title='Home Screen' width='' alt='Home Screen' height = '100' width='90'/>
   - ...
 - [list second screen here]
   - [list associated required story here]
