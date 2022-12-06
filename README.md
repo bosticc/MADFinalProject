@@ -77,9 +77,7 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 
 ## Wireframes
 
-<img src='https://i.imgur.com/C6Hdabq.jpeg' title='Home Screen' width='' alt='Home Screen' height = '180' width='170'/>
-<img src='https://i.imgur.com/JKXDAfB.jpeg' title='Home Screen' width='' alt='Home Screen' height = '180' width='170'/>
-<img src='https://i.imgur.com/fMysrUd.jpeg' title='Home Screen' width='' alt='Home Screen' height = '180' width='170'/>
+<img src='https://i.imgur.com/8MIwJAi.jpeg' title='Home Screen' width='' alt='Home Screen' height = '600' width='680'/>
 
 ### [BONUS] Digital Wireframes & Mockups
 <img src='https://i.imgur.com/MLbdnQM_d.webp?maxwidth=1520&fidelity=grand' title='Home Screen' width='' alt='Home Screen' height = '400' width='450'/>
