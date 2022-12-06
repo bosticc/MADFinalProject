@@ -15,11 +15,11 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
+- **Category: Productivity**
+- **Mobile: Yes**
+- **Story:Store your tasks in a centralized location with Good Habits!**
+- **Market: Students, Lifestyle, Everyday**
+- **Habit: Organization**
 - **Scope:**
 
 ## Product Spec
