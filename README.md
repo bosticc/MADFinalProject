@@ -14,13 +14,13 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
-- **Category: Productivity**
-- **Mobile: Yes**
-- **Story:Store your tasks in a centralized location with Good Habits!**
-- **Market: Students, Lifestyle, Everyday**
-- **Habit: Organization**
-- **Scope: Allow users to add tasks to their to do list.**
+   - **Description**: Allows teachers, students, employees, and everyday people to stay organized and on top of their tasks. Allows for a centralized location of to do list. To do list is editable and adjustable.
+   - **Category:** Productivity
+   - **Mobile:** Mobile is essential for instant logging, and updating of the to do list in real time. The list stays in the app when it's closed.
+   - **Story:** Creates positive habits for developing organizational skills. No longer will one be inundated with work and have trouble keeping track of it. The To Do List eliminates the hassle of remembering by storing tasks in one place.
+   - **Market:** Anybody who has an abundance of daily tasks to do. Also, anyone who wants to write something down to remember to do later.
+   - **Habit:** Users will use daily to stay on top of their tasks.
+   - **Scope:** V1 of the To Do List could allow users to add, edit, and delete tasks that they create. V2 would incorporate a deadline for tasks. V3 would add a way to prioritize tasks based on importance. V4 would incorporate timely reminders for tasks.
 
 ## Product Spec
 
