@@ -20,7 +20,7 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 - **Story:Store your tasks in a centralized location with Good Habits!**
 - **Market: Students, Lifestyle, Everyday**
 - **Habit: Organization**
-- **Scope:**
+- **Scope: Allow users to add tasks to their to do list.**
 
 ## Product Spec
 
@@ -28,13 +28,19 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 
 **Required Features**
 
-* [fill in your required user features here]
-* ...
+- [x] **Allow user to add a new task**
+- [x] **Allow user to edit task**
+- [x] **Allow user to delete a task**
+- [x] **Allow user to delete all tasks**
+- [x] **Allow user to check off a task as completed**
 
 **Stretch Features**
 
-* [fill in your optional user features here]
-* ...
+- [x] **Show user current date**
+- [x] **Show user number of all tasks**
+- [x] **Show user number of all completed tasks**
+- [x] **User login feature**
+- [ ] **Allow user to add a picture in task description**
 
 ### 2. Screen Archetypes
 
