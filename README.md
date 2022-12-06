@@ -50,7 +50,8 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
   - ...
 - Add a Task
   - <img src='https://i.imgur.com/TBqLSr1.png' title='Add a Task Screen' width='' alt='Home Screen' height = '250' width='230'/>
-  - ...
+- Task on Screen
+  - <img src='https://i.imgur.com/vYfnGKd.png' title='Add a Task Screen' width='' alt='Home Screen' height = '250' width='230'/>
 
 ### 3. Navigation
 
