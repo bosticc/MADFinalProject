@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.goodhabits.ui.home.HomeFragment"
+        android:label="Good Habits"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_addFragment"
+            app:destination="@id/addFragment"
+            app:enterAnim="@anim/animation_from_bottom"
+            app:exitAnim="@anim/animation_leave_from_top"
+            app:popEnterAnim="@anim/animation_from_top"
+            app:popExitAnim="@anim/animation_leave_from_bottom" />
+        <action
+            android:id="@+id/action_homeFragment_to_editFragment"
+            app:destination="@id/editFragment"
+            app:enterAnim="@anim/animation_from_bottom"
+            app:exitAnim="@anim/animation_leave_from_top"
+            app:popEnterAnim="@anim/animation_from_top"
+            app:popExitAnim="@anim/animation_leave_from_bottom" />
+    </fragment>
+    <fragment
+        android:id="@+id/addFragment"
+        android:name="com.example.goodhabits.ui.add.AddFragment"
+        android:label="Add Your Task"
+        tools:layout="@layout/fragment_add" />
+    <fragment
+        android:id="@+id/editFragment"
+        android:name="com.example.goodhabits.ui.edit.EditFragment"
+        android:label="@string/edit_task"
+        tools:layout="@layout/fragment_edit">
+        <argument
+            android:name="todo"
+            app:argType="com.example.goodhabits.data.source.local.entity.Todo"
+            app:nullable="true" />
+    </fragment>
+</navigation>

@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="textTitle">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textBase">
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/colorText</item>
+        <item name="boxBackgroundColor">@color/colorCard</item>
+        <item name="android:textColorHint">@color/colorText</item>
+    </style>
+
+    <style name="MyDialogTheme" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@drawable/bg_dialog</item>
+        <item name="android:textColorPrimary">@color/colorText</item>
+    </style>
+
+</resources>

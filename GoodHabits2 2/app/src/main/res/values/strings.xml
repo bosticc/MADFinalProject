@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Good Habits</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="edit_task">Edit a Task</string>
+    <string name="no_data">No Current Tasks</string>
+    <string name="add_task">Create a Task</string>
+    <string name="title">Task Name</string>
+    <string name="description">Add a task description</string>
+    <string name="submit">Add This Task</string>
+    <string name="update">Update your Task</string>
+    <string name="fill_all_fields">Please complete all fields!</string>
+    <string name="total_task">All Tasks</string>
+    <string name="completed">Completed</string>
+</resources>
