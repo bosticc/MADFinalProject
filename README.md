@@ -85,5 +85,5 @@ Our app, Good Habits, is a to do list that helps keep everyday people organized.
 <img src='https://i.imgur.com/MLbdnQM_d.webp?maxwidth=1520&fidelity=grand' title='Home Screen' width='' alt='Home Screen' height = '400' width='450'/>
 
 ### [BONUS] Interactive Prototype
-https://www.figma.com/proto/GW1WFVyN0d2Kjfek2ANr0O/To-Do-List-Daily-UI-42-(Community)?node-id=102%3A371&scaling=scale-down&page-id=0%3A1&starting-point-node-id=102%3A126
+<img src='https://i.imgur.com/C8CbA0p.gif' title='Interactive Prototype' width='' alt='Video Walkthrough' height='400' width='450'/>
 
